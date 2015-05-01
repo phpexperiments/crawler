@@ -3,8 +3,7 @@ Crawler Program
 
 Works in CLI Mode
 
-* In terminal run 
-	php index.php url=URL_TO_CRAWL
+* In terminal run "php index.php url=URL_TO_CRAWL"
 
 In application mode
 
